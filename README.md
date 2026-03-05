@@ -39,14 +39,14 @@ Le dashboard permet de visualiser :
 
 ## Dashboard
 
-### Aperçu du marché
+## Aperçu du marché
 
-![Aperçu du marché](Capture d'écran 2026-03-05 195834.png)
+![Aperçu du marché]("Capture d'écran 2026-03-05 195834.png")
 
-### Analyse des catégories de restaurants
+## Analyse des catégories de restaurants
 
-![Catégories restaurants](Capture d'écran 2026-03-05 195926.png)
+![Catégories restaurants]("Capture d'écran 2026-03-05 195926.png")
 
-### Opportunités de marché
+## Opportunités de marché
 
-![Opportunités](Capture d'écran 2026-03-05 195939.png)
+![Opportunités]("Capture d'écran 2026-03-05 195939.png")
