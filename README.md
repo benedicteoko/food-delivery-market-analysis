@@ -31,6 +31,7 @@ Certaines cuisines comme le sushi ou l’indien présentent un panier moyen plus
 
 ## Dashboard
 
+
 Le dashboard permet de visualiser :
 
 - l’aperçu du marché
@@ -50,3 +51,16 @@ Le dashboard permet de visualiser :
 ## Opportunités de marché
 
 ![Opportunités](opportunites_marche.png)
+
+## Dashboard interactif
+
+Voir le tableau de bord interactif :
+
+[Dashboard Looker Studio](https://lookerstudio.google.com/reporting/e7f7d261-add4-4af3-bc83-d50fe64e75f0)
+
+## Insights principaux
+
+- Uber Eats domine le marché en nombre de commandes.
+- Les burgers sont la catégorie la plus commandée.
+- Certaines cuisines comme péruvienne ou indienne génèrent un panier moyen plus élevé.
+- Les segments à faible volume mais panier élevé représentent des opportunités de marché.
