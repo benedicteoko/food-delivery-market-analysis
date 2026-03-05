@@ -38,10 +38,6 @@ Le dashboard permet de visualiser :
 - l’analyse des catégories de restaurants
 - les opportunités de marché
 
-## Dashboard
-
-## Aperçu du marché
-
 ![Aperçu du marché](dashboard_apercu.png)
 
 ## Analyse des catégories de restaurants
