@@ -5,8 +5,6 @@
 Analyse du marché français de la livraison de repas à partir d’un dataset de commandes.
 ## Contexte
 
-Ce projet analyse le marché français de la livraison de repas à partir d’un dataset de commandes.
-
 L’objectif est de comprendre :
 - la concurrence entre plateformes
 - les catégories de restaurants les plus populaires
