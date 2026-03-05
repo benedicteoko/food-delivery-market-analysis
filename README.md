@@ -1,5 +1,8 @@
 # Food Delivery Market Analysis – France
 
+**SQL | Google BigQuery | Looker Studio**
+
+Analyse du marché français de la livraison de repas à partir d’un dataset de commandes.
 ## Contexte
 
 Ce projet analyse le marché français de la livraison de repas à partir d’un dataset de commandes.
@@ -21,13 +24,11 @@ L’objectif est de comprendre :
 - Panier moyen : 18,47 €
 - Frais moyens : 3,32 €
 
-## Principaux insights
+## Business Insights
 
-Uber Eats domine le marché, suivi par Deliveroo puis Just Eat.
-
-Les restaurants de burgers génèrent le plus de commandes.
-
-Certaines cuisines comme le sushi ou l’indien présentent un panier moyen plus élevé.
+- Uber Eats domine le marché en nombre de commandes.
+- Les burgers sont la catégorie la plus commandée.
+- Certaines cuisines comme indienne ou péruvienne ont un panier moyen plus élevé.
 
 ## Dashboard
 
