@@ -62,7 +62,7 @@ Voir le tableau de bord interactif :
 
 Les requêtes d'analyse utilisées pour ce projet sont disponibles ici :
 
-[Voir les requêtes SQL](requêtes_analyse.sql)
+[Voir les requêtes SQL](requêtes_d'analyse.sql)
 
 ## Insights principaux
 
