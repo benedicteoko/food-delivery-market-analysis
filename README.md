@@ -58,6 +58,12 @@ Voir le tableau de bord interactif :
 
 [Dashboard Looker Studio](https://lookerstudio.google.com/reporting/e7f7d261-add4-4af3-bc83-d50fe64e75f0)
 
+## Requêtes SQL utilisées
+
+Les requêtes d'analyse utilisées pour ce projet sont disponibles ici :
+
+[Voir les requêtes SQL](requêtes_analyse.sql)
+
 ## Insights principaux
 
 - Uber Eats domine le marché en nombre de commandes.
